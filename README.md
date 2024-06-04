@@ -8,7 +8,7 @@
 ![2](https://github.com/IAMYUTAEYANG/2022Living-Lab/assets/165633233/6ee72dd2-c12a-4479-9f4f-19d8473c1b74)
 ![3](https://github.com/IAMYUTAEYANG/2022Living-Lab/assets/165633233/1f2ae6d5-4fa8-417c-a521-65684e7df595)
 ![4](https://github.com/IAMYUTAEYANG/2022Living-Lab/assets/165633233/32634bd3-c192-431c-a4c8-510f0c7627e1)
-![5](https://github.com/IAMYUTAEYANG/2022Living-Lab/assets/165633233/c7fb2094-fb1a-409e-b36e-2081fe0cce37)
+
 
 ### Serial 결과 예시
 ![6](https://github.com/IAMYUTAEYANG/2022Living-Lab/assets/165633233/c19b1568-9ca6-442f-b4f1-0a60e98a8d12)
